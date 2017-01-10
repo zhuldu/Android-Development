@@ -3,3 +3,4 @@ git is a free software
 git commit test
 git status +++test
 推到远程库测试
+冲突冲突
